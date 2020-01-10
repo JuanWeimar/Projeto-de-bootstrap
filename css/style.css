@@ -1,0 +1,55 @@
+body{
+    background-color:#2E2E2E;
+}
+
+.navbar-light{
+    background-color:#151515;
+    
+}
+
+a.nav-link{
+    color: white;
+}
+
+
+/*nav{
+    background-color:#585858;
+}*/
+
+.collapse .navbar-collapse{
+    font-family: sans-serif;
+    color: white;
+}
+
+.Criptomoedas{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.paragrafo{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.frases{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.bg-footer{
+    background-color: #151515;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 60px;
+    
+}
+
+.pfooter{
+    position: relative;
+    top: 30px;
+}
